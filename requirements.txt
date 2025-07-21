@@ -1,0 +1,5 @@
+# --- Step 2: requirements.txt (add this to your file) ---
+streamlit
+pandas
+openpyxl
+mysql-connector-python
